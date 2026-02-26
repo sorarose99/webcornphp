@@ -1,5 +1,5 @@
 # WebcornPHP
-
+Production-style backend system built with Laravel demonstrating scalable API architecture, domain-driven design principles, and real-world business workflows.
 A modern, full-stack web application built with **Laravel 9** and **Vite**, designed for high performance and scalability.
 
 ---
